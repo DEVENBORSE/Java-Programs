@@ -7,6 +7,14 @@ class Vehicle{
 }
 
 class Ertiga extends Vehicle{
-    void closeEngine(){
+    void offEngine(){
         System.out.println("The engine is off");
 } 
+
+class Inheritance{
+    public static void main(String[] args){
+    Ertiga er = new Ertiga();
+    er.startEngine();
+    er.offEngine();
+    }
+}
