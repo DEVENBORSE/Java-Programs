@@ -1,4 +1,4 @@
-# 🧠 Java Programs Repository
+# ☄️Java Programs Repository
 
 Welcome to my collection of **Java programs**! This repository contains solutions and examples written in Java for learning, practice, and demonstration purposes.
 
