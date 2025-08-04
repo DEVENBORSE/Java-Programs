@@ -4,9 +4,8 @@ Welcome to my collection of **Java programs**! This repository contains solution
 
 ---
 
-## 📁 Folder Structure
 
-Each folder contains one or more Java files with a related concept or topic.
+Each Java files are with a related concept or topic.
 
 🎓 Purpose
 This repository is maintained to:
